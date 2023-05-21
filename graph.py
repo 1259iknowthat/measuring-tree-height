@@ -10,7 +10,7 @@ tick_label = ['AVL tree', 'Red-Black tree']
   
 
 plt.bar(left, height, tick_label = tick_label,
-        width = 0.8, color = ['red', 'green'])
+        width = 0.5, color = ['red', 'green'])
   
 
 plt.xlabel('Trees')
